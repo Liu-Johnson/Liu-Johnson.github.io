@@ -20,11 +20,12 @@ body {
 }
 /* Navigation */
 header {
-	width: 90%;
-	height: 4%;
-	background-color: #BBD8B3;
-	border-bottom: 1px solid #ffffff;
-	position: fixed;
+    width: 90%;
+    height: 4%;
+    background-color: #BBD8B3;
+    border-bottom: 1px solid #ffffff;
+    position: fixed;
+    border-top-width: 4%;
 }
 .logo {
     color: #fff;
@@ -66,7 +67,7 @@ ul li:hover a {
 .hero_header {
 	color: #FFFFFF;
 	text-align: center;
-	margin-top: 0px;
+	margin-top: 30px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
